@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965978075669",
+    "project_id": "firebase-gofer"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965978075669:android:1edf5e4f963cb7d7",
+        "android_client_info": {
+          "package_name": "com.aexyn.gcm_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965978075669-sn92puotgamm9hrb6opg5a1vq7pnl1b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aexyn.gcm_demo",
+            "certificate_hash": "8982733CBADCACF92AF1377E2D03BAA691F1B859"
+          }
+        },
+        {
+          "client_id": "965978075669-8hqsm7r10dmu97g971cpa0frbjr1qjia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxcXSle37SAchPd7xAQS_k9w5ZYc70Y5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
